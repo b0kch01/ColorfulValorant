@@ -10,6 +10,9 @@
 
 </div>
 
+## Download
+- https://github.com/B0kCh01/ColorfulValorant/releases/latest/download/
+
 ## Instructions
 1. Open as administrator
 2. Use arrow keys (up, down) to switch colors
