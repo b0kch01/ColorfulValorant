@@ -21,7 +21,7 @@ cprint(" - [¤] Imported Modules", "green")
 
 if ctypes.windll.shell32.IsUserAnAdmin() == 0:
     cprint(" - [x] Please run as administrator", "red")
-    input("[ ENTER ] to exit")
+    input("[ ENTER ] to quit")
     exit(0)
 
 def clear():
@@ -87,7 +87,8 @@ keyboard.add_hotkey("down", goDown)
 
 try:
     render()
+    print("Instructions are on https://github.com/b0kch01/ColorfulValorant")
     print("\nEnjoy! :)")
     keyboard.wait("up + down")
 except KeyboardInterrupt:
-    pass
+    exit(0)
