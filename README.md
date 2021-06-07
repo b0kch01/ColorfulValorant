@@ -11,7 +11,7 @@
 </div>
 
 ## Download
-- https://github.com/B0kCh01/ColorfulValorant/releases/latest/download/
+- https://github.com/B0kCh01/ColorfulValorant/releases/latest/
 
 ## Instructions
 1. Open as administrator
