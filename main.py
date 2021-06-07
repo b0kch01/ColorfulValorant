@@ -1,3 +1,5 @@
+# ColorfulValorant by b0kch01
+
 import os, ctypes
 
 # Disable quick-edit mode (pauses bot)
