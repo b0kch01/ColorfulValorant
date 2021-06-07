@@ -1,4 +1,4 @@
-# ColorfulValorant by b0kch01
+# Colorful VALORANT by b0kch01
 
 import os, ctypes
 
