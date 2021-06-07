@@ -8,10 +8,10 @@
   🎨 Easily type in different colors in the VALORANT chat!
   ```
 
+  <kbd>[**Latest Download Link**](https://github.com/B0kCh01/ColorfulValorant/releases/latest/download/ColorfulVALORANT.exe)</kbd>
+
 </div>
 
-## Download
-- https://github.com/B0kCh01/ColorfulValorant/releases/latest/
 
 ## Instructions
 1. Open as administrator
