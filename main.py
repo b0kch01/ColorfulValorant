@@ -10,6 +10,7 @@ from pyfiglet import Figlet
 from termcolor import cprint, colored
 import colorama
 import keyboard
+import time
 
 
 # Fix legacy console color
@@ -67,6 +68,7 @@ def goDown():
     render()
 
 def makeColor():
+    time.sleep(0.05)
     keyboard.send("home")
     keyboard.write(colors[i % 5])
     keyboard.send("end")
@@ -91,4 +93,4 @@ try:
     print("\nEnjoy! :)")
     keyboard.wait("up + down")
 except KeyboardInterrupt:
-    exit(0)
+    exit(0) 
