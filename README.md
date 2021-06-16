@@ -8,12 +8,15 @@
   🎨 Easily type in different colors in the VALORANT chat!
   ```
 
+  <kbd>[**Latest Download Link**](https://github.com/B0kCh01/ColorfulValorant/releases/latest/download/ColorfulVALORANT.exe)</kbd>
+
 </div>
+
 
 ## Instructions
 1. Open as administrator
 2. Use arrow keys (up, down) to switch colors
-3. Press <kbd>/</kbd> to send text in chat as chosen color
+3. Press <kbd>\\</kbd> to send text in chat as chosen color
 
     **`📌NOTE:`** press the *BACK-SLASH* key <kbd>\\</kbd>, ___not___ the *FORWARD-SLASH* key <kbd>/</kbd>
 
